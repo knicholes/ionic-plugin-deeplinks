@@ -42,7 +42,7 @@
 
   [self sendToJs];
 
-  return YES;
+  return NO;
 }
 
 - (BOOL)handleContinueUserActivity:(NSUserActivity *)userActivity {
